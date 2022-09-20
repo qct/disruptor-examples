@@ -41,7 +41,6 @@
             <groupId>com.lmax</groupId>
             <artifactId>disruptor</artifactId>
             <version>${disruptor.version}</version>
-            <scope>test</scope>
         </dependency>
 
         <dependency>
